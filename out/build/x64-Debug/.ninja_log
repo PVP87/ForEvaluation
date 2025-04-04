@@ -1,0 +1,13 @@
+# ninja log v5
+4	10308	7647877154404003	CMakeFiles/ssd_obj_detect.dir/src/SSDModel.cpp.obj	4fd918af46c26690
+27	10418	7647877156522693	CMakeFiles/ssd_obj_detect.dir/src/Graphic.cpp.obj	e85177e24210350c
+48	9808	7647877149976731	CMakeFiles/ssd_obj_detect.dir/src/main.cpp.obj	86b631acbbcc401f
+10429	11813	7647877169114910	ssd_obj_detect.exe	9bd4742ffe4de030
+0	42	0	clean	9992afb1f91dc381
+3	7020	7647879776804421	CMakeFiles/ssd_obj_detect.dir/src/Graphic.cpp.obj	e85177e24210350c
+7023	8350	7647879788617150	ssd_obj_detect.exe	9bd4742ffe4de030
+32	9282	7653003914687855	CMakeFiles/ssd_obj_detect.dir/src/main.cpp.obj	86b631acbbcc401f
+4	9385	7653003915997055	CMakeFiles/ssd_obj_detect.dir/src/Graphic.cpp.obj	e85177e24210350c
+9386	11249	7653003933256416	ssd_obj_detect.exe	9bd4742ffe4de030
+3	6474	7653005280473312	CMakeFiles/ssd_obj_detect.dir/src/Graphic.cpp.obj	e85177e24210350c
+6477	7610	7653005290711928	ssd_obj_detect.exe	9bd4742ffe4de030
